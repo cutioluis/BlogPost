@@ -1,19 +1,21 @@
-body
+    body
 {
-    color: #333;
+    color: white;
     text-align: center;
     font-family: "times new roman";
     font-size: 25px;
     margin: 0;
     padding: 0;
+    background-color: #333;
 }
 #container
 {
     width: 70%;
     padding: 1em;
     text-align: left;
-    border: 1px solid #DDD;
+    border: 1px solid white;
     margin: 0 auto;
+    background-color: rgb(8, 5, 10);
 }
 
 #container h1
